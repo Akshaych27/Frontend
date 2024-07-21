@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-projectyoutube-dev-a8126-authRole",
+      "UnauthRoleArn": "arn:aws:iam::654654485319:role/amplify-projectyoutube-dev-a8126-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::654654485319:role/amplify-projectyoutube-dev-a8126-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-projectyoutube-dev-a8126-deployment",
+      "UnauthRoleName": "amplify-projectyoutube-dev-a8126-unauthRole",
+      "StackName": "amplify-projectyoutube-dev-a8126",
+      "StackId": "arn:aws:cloudformation:ap-south-1:654654485319:stack/amplify-projectyoutube-dev-a8126/fb47ef80-3f94-11ef-bc4d-06851b514006",
+      "AmplifyAppId": "duoe550thgrcl"
+    }
+  }
+}
